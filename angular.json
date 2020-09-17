@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fatec-ipi-paoo-previsao-do-tempo"
+    }
+  },
+  "defaultProject": "fatec-ipi-paoo-previsao-do-tempo",
+  "cli": {
+    "analytics": "343e09f9-caa6-405e-a7d8-b2f3b2aa03ec"
+  }
 }
